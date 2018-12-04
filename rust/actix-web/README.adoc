@@ -1,0 +1,10 @@
+= Rust Actix-Web
+:author: Daniel Pous
+:toc:
+
+== Running
+
+```
+cargo run
+```
+
