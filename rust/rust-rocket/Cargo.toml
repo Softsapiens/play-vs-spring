@@ -1,0 +1,9 @@
+[package]
+name = "rust"
+version = "0.1.0"
+authors = ["dpm"]
+edition = "2018"
+
+[dependencies]
+rocket = "0.4.0-rc.1"
+rocket_codegen = "0.4.0-rc.1"

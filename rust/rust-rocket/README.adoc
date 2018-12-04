@@ -1,0 +1,12 @@
+= Rust Rocket
+:author: Daniel Pous
+:toc:
+
+== Running
+
+Execution environment configuration could be found in Rocket.toml.
+
+```
+ROCKET_ENV=dev cargo run
+```
+
